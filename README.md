@@ -28,8 +28,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🪪 License (자격증)
-**프로그래밍기능사:**
-**정보기기운용기능사:**
+* **프로그래밍기능사:** 코딩의 기초와 소프트웨어 개발 흐름을 배우는 '프로그래밍 입문' 자격증
+* **정보기기운용기능사:** 컴퓨터 네트워크 장비를 설정하고 통신망을 관리하는 '네트워크 구축 및 운용' 자격증
 
 ---
 
